@@ -173,9 +173,9 @@ gunicorn --bind 0.0.0.0:5000 main:app
 This project was developed by:
 
 - **Subuhana B**
-- **Sageetha G S**
+- **Sangeetha G S**
 - **Swetha S**
-- **Saniyha Sunil**
+- **Saniyah Sunil**
 
 🎉 _Contributions are always welcome!_
 
